@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Magic Eight Ball</string>
+    <string name="app_name">माइला</string>
+    <string name="text1"> तपाई को भबिश्य जन्नुहोस्..?</string>
+    <string name="roll_button"> थिच्नुहोस्</string>
 </resources>
